@@ -1,0 +1,1 @@
+alter table sales_item add day_of_week varchar(8);
