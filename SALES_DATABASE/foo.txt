@@ -1,1 +1,0 @@
-I'm just improving my PostgreSQL skills one file and query at a time.
