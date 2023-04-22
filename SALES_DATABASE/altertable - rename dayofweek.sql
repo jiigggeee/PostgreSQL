@@ -1,0 +1,1 @@
+alter table sales_item rename day_of_week to weekday;
