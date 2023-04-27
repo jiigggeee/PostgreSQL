@@ -1,0 +1,1 @@
+alter table transaction_type rename to transaction;
