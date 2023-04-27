@@ -1,0 +1,1 @@
+create index transaction_id on transaction(name);
